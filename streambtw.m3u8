@@ -1,86 +1,81 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/ad4c3bd2-ddb6-3f8c-8abf-744855a08fa4/logo/original_201807271434.svg" group-title="NFL",Washington Commanders vs Kansas City Chiefs
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png&transparent=true&w=80&h=80" group-title="SERIE A",Lecce vs Napoli
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_nfl1.m3u8?md5=DrzsXgSrWXkWuT-v71S3oQ&expires=1761615589
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/cf7b0c51-7c48-3e9a-8abb-0c01b1a973a0/logo/original_20230704130007.svg" group-title="LALIGA",Real Betis vs Atl�tico Madrid
+https://streameast247.com/playlist/stream_7.m3u8?md5=w6SCDjK1UJZmMfGDPADJ9g&expires=1761657394
+#EXTINF:-1 tvg-logo="https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/12.png&transparent=true&w=80&h=80" group-title="SERIE A",Atalanta vs Milan
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://streameast247.com/playlist/stream_6.m3u8?md5=DjQQRVgQfET5WPncr-mhMg&expires=1761615590
-#EXTINF:-1 tvg-logo="https://www.ligaportugal.pt/media/app_liga_portugal.png" group-title="LIGA PORTUGAL",Moreirense vs Porto
+https://streameast247.com/playlist/stream_7.m3u8?md5=w6SCDjK1UJZmMfGDPADJ9g&expires=1761657394
+#EXTINF:-1 tvg-logo="https://www.efl.com/efl-logo-large.svg" group-title="EFL",Grimsby Town vs Brentford
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://streameast247.com/playlist/stream_12.m3u8?md5=b1xxfKJrnCvFpTP8klyViQ&expires=1761615591
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg" group-title="NBA",Cleveland Cavaliers vs Detroit Pistons
+https://streameast247.com/playlist/stream_1.m3u8?md5=FAX1BjMO47U58-Tv0a66Kg&expires=1761657395
+#EXTINF:-1 tvg-logo="https://www.efl.com/efl-logo-large.svg" group-title="EFL",Wycombe Wanderers vs Fulham
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_nba1.m3u8?md5=O6KbGdbZ74knWq5g5PRIBA&expires=1761615593
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg" group-title="NBA",Orlando Magic vs Philadelphia 76ers
+https://streameast247.com/playlist/stream_2.m3u8?md5=pZl6DXrSr45Vzk-KomPzYw&expires=1761657396
+#EXTINF:-1 tvg-logo="https://www.efl.com/efl-logo-large.svg" group-title="EFL",Wrexham vs Cardiff City
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_nba2.m3u8?md5=W8HfALba5yhsQaH9YCWzOg&expires=1761615594
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg" group-title="NBA",Atlanta Hawks vs Chicago Bulls
+https://streameast247.com/playlist/stream_3.m3u8?md5=eBPubzRWeh-qcN6YE5KjKg&expires=1761657397
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg" group-title="NBA",Washington Wizards vs Philadelphia 76ers
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_nba3.m3u8?md5=xa0klyG-F8suhKwWYbWBwQ&expires=1761615594
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg" group-title="NBA",Brooklyn Nets vs Houston Rockets
+https://playlist.streameast247.com/playlist/stream_nba1.m3u8?md5=Zbz-6TE6yCqE8WafEC2bGA&expires=1761657397
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg" group-title="NBA",Miami Heat vs Charlotte Hornets
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_nba4.m3u8?md5=iA4fE0v8R8jlV3GheJl7sg&expires=1761615595
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg" group-title="NBA",Boston Celtics vs New Orleans Pelicans
+https://playlist.streameast247.com/playlist/stream_nba2.m3u8?md5=czlgVVfNuyDrIoK6B_ltYg&expires=1761657398
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg" group-title="NBA",Milwaukee Bucks vs New York Knicks
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_nba5.m3u8?md5=qbyffCfA-R8-rH28V4psoA&expires=1761615596
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg" group-title="NBA",Toronto Raptors vs San Antonio Spurs
+https://playlist.streameast247.com/playlist/stream_nba3.m3u8?md5=eKaBatqHKl3AFikvcRb94w&expires=1761657399
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg" group-title="NBA",Oklahoma City Thunder vs Sacramento Kings
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_nba6.m3u8?md5=pdtUJWqlZgNmU0a-LJNOLg&expires=1761615596
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg" group-title="NBA",Oklahoma City Thunder vs Dallas Mavericks
+https://playlist.streameast247.com/playlist/stream_nba4.m3u8?md5=9OaX4W9m63E2opxA-uIRtg&expires=1761657399
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg" group-title="NBA",Golden State Warriors vs LA Clippers
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_nba7.m3u8?md5=k40CmEcsOmAwHySFELY-BQ&expires=1761615597
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg" group-title="NBA",Phoenix Suns vs Utah Jazz
-#EXTVLCOPT:http-origin=https://streambtw.com
-#EXTVLCOPT:http-referrer=https://streambtw.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_nba8.m3u8?md5=oesPOLzn-vUIiUMPwaU9dg&expires=1761615599
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg" group-title="NBA",Denver Nuggets vs Minnesota Timberwolves
-#EXTVLCOPT:http-origin=https://streambtw.com
-#EXTVLCOPT:http-referrer=https://streambtw.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_nba9.m3u8?md5=vzmPX8wg7U1X0G8cugM7nw&expires=1761615600
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg" group-title="NBA",Memphis Grizzlies vs Golden State Warriors
-#EXTVLCOPT:http-origin=https://streambtw.com
-#EXTVLCOPT:http-referrer=https://streambtw.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_nba10.m3u8?md5=MR8-YFmTjccROl2KKUwh8w&expires=1761615604
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/7b3729c9-7f69-308a-bf8a-ee15a6aba154/logo/original_20191002200202.svg" group-title="NBA",Portland Trail Blazers vs Los Angeles Lakers
-#EXTVLCOPT:http-origin=https://streambtw.com
-#EXTVLCOPT:http-referrer=https://streambtw.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_nba11.m3u8?md5=7sXnOZJ4wrki0SzQO8Vm8Q&expires=1761615605
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/1a5f0227-a13e-396c-8cea-8961bc288666/logo/original_201807261445.svg" group-title="NHL",Blues vs Penguins
+https://playlist.streameast247.com/playlist/stream_nba5.m3u8?md5=DXJ1DORSCnOTFEvO0jBeoQ&expires=1761657400
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/1a5f0227-a13e-396c-8cea-8961bc288666/logo/original_201807261445.svg" group-title="NHL",Penguins vs Flyers
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://streameast247.com/playlist/stream_nhl1.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/1a5f0227-a13e-396c-8cea-8961bc288666/logo/original_201807261445.svg" group-title="NHL",Bruins vs Senators
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/1a5f0227-a13e-396c-8cea-8961bc288666/logo/original_201807261445.svg" group-title="NHL",Penguins vs Flyers
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
 https://streameast247.com/playlist/stream_nhl2.m3u8
-#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/b38f959b-7865-31ac-8841-b88355519e10/logo/original_201811152008.svg" group-title="MLB",Blue Jays vs Dodgers
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/1a5f0227-a13e-396c-8cea-8961bc288666/logo/original_201807261445.svg" group-title="NHL",Capitals vs Stars
 #EXTVLCOPT:http-origin=https://streambtw.com
 #EXTVLCOPT:http-referrer=https://streambtw.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
-https://playlist.streameast247.com/playlist/stream_mlb1.m3u8?md5=UPQ4f7es2QgmfupWsgLoIw&expires=1761615607
+https://streameast247.com/playlist/stream_nhl2.m3u8
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/1a5f0227-a13e-396c-8cea-8961bc288666/logo/original_201807261445.svg" group-title="NHL",Mammoth vs Oilers
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://streameast247.com/playlist/stream_nhl1.m3u8
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/1a5f0227-a13e-396c-8cea-8961bc288666/logo/original_201807261445.svg" group-title="NHL",Kings vs Sharks
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://streameast247.com/playlist/stream_nhl2.m3u8
+#EXTINF:-1 tvg-logo="https://artwork.espncdn.com/categories/b38f959b-7865-31ac-8841-b88355519e10/logo/original_201811152008.svg" group-title="MLB",Charlotte vs New York City
+#EXTVLCOPT:http-origin=https://streambtw.com
+#EXTVLCOPT:http-referrer=https://streambtw.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 11.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.6998.166 Safari/537.36
+https://playlist.streameast247.com/playlist/stream_mlb1.m3u8?md5=Hv9CCsx47mFkLhebSGY2KA&expires=1761657404
